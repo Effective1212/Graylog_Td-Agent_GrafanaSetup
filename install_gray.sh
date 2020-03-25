@@ -25,9 +25,9 @@ gpgkey=https://www.mongodb.org/static/pgp/server-4.0.asc
 yum install mongodb-org -y 
 
 systemctl daemon-reload
-sudo systemctl enable mongod.service
-sudo systemctl start mongod.service
-sudo systemctl --type=service --state=active | grep mongod
+systemctl enable mongod.service
+systemctl start mongod.service
+systemctl --type=service --state=active | grep mongod
 rpm --import https://artifacts.elastic.co/GPG-KEY-elasticsearch
 
 echo "[elasticsearch-6.x]
@@ -47,17 +47,17 @@ sed 's/^cluster\.name.*/cluster\.name graylog/' /etc/elasticsearch/elasticsearch
 
 echo "action.auto_create_index: false" >> /etc/elasticsearch/elasticsearch.yml 
 
-sudo systemctl daemon-reload
+systemctl daemon-reload
 
 
 
-sudo systemctl enable elasticsearch.service
+systemctl enable elasticsearch.service
 
-sudo systemctl restart elasticsearch.service
+systemctl restart elasticsearch.service
 
-sudo rpm -Uvh https://packages.graylog2.org/repo/packages/graylog-3.2-repository_latest.rpm
+rpm -Uvh https://packages.graylog2.org/repo/packages/graylog-3.2-repository_latest.rpm
 
-sudo yum install -y  graylog-server 
+yum install -y  graylog-server 
 
 cp /etc/graylog/server/server.conf /etc/graylog/server/server.conf.bak
 
@@ -87,13 +87,13 @@ firewall-cmd --zone=public --add-port=9000/tcp --permanent
 firewall-cmd --reload
 
 
-sudo setsebool -P httpd_can_network_connect 1
+setsebool -P httpd_can_network_connect 1
 
-sudo semanage port -a -t http_port_t -p tcp 9000
+semanage port -a -t http_port_t -p tcp 9000
 
-sudo semanage port -a -t http_port_t -p tcp 9200
+semanage port -a -t http_port_t -p tcp 9200
 
-sudo semanage port -a -t mongod_port_t -p tcp 27017
+semanage port -a -t mongod_port_t -p tcp 27017
 
 
 ### Graylog Kurulumu Tamalandi ###
