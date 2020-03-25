@@ -1,1 +1,4 @@
-This in tallation is for CentOS 7 only
+This installation is for CentOS 7 only
+
+
+Must be run as root
