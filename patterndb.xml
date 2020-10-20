@@ -1,0 +1,1589 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<patterndb>
+  <created>2016-12-02 13:39:49</created>
+  <version>1</version>
+  <group>
+    <name>winnxlog</name>
+    <id>1</id>
+    <pattern>
+      <id>1</id>
+      <name>Event - 19</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>19</value>
+      </matchfield>
+      <exec>$PatternID=1;</exec>
+    </pattern>
+    <pattern>
+      <id>2</id>
+      <name>Event - 36</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>36</value>
+      </matchfield>
+      <exec>$PatternID=2;</exec>
+    </pattern>
+    <pattern>
+      <id>3</id>
+      <name>Event - 51</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>51</value>
+      </matchfield>
+      <exec>$PatternID=3;</exec>
+    </pattern>
+    <pattern>
+      <id>4</id>
+      <name>Event - 41</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>41</value>
+      </matchfield>
+      <exec>$PatternID=4;</exec>
+    </pattern>
+    <pattern>
+      <id>5</id>
+      <name>Event - 2004</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>2004</value>
+      </matchfield>
+      <exec>$PatternID=5;</exec>
+    </pattern>
+    <pattern>
+      <id>6</id>
+      <name>Event - 2005</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>2005</value>
+      </matchfield>
+      <exec>$PatternID=6;</exec>
+    </pattern>
+    <pattern>
+      <id>7</id>
+      <name>Event - 2006</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>2006</value>
+      </matchfield>
+      <exec>$PatternID=7;</exec>
+    </pattern>
+    <pattern>
+      <id>8</id>
+      <name>Event - 24</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>24</value>
+      </matchfield>
+      <exec>$PatternID=8;</exec>
+    </pattern>
+    <pattern>
+      <id>9</id>
+      <name>Event - 22</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>22</value>
+      </matchfield>
+      <exec>$PatternID=9;</exec>
+    </pattern>
+    <pattern>
+      <id>10</id>
+      <name>Event - 24</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>24</value>
+      </matchfield>
+      <exec>$PatternID=10;</exec>
+    </pattern>
+    <pattern>
+      <id>11</id>
+      <name>Event - 25</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>25</value>
+      </matchfield>
+      <exec>$PatternID=11;</exec>
+    </pattern>
+    <pattern>
+      <id>12</id>
+      <name>Event - 104</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>104</value>
+      </matchfield>
+      <exec>$PatternID=12;</exec>
+    </pattern>
+    <pattern>
+      <id>13</id>
+      <name>Event - 104</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>104</value>
+      </matchfield>
+      <exec>$PatternID=13;</exec>
+    </pattern>
+    <pattern>
+      <id>14</id>
+      <name>Event - 307</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>307</value>
+      </matchfield>
+      <exec>$PatternID=14;</exec>
+    </pattern>
+    <pattern>
+      <id>15</id>
+      <name>Event - 800</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>800</value>
+      </matchfield>
+      <exec>$PatternID=15;</exec>
+    </pattern>
+    <pattern>
+      <id>16</id>
+      <name>Event - 800</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>800</value>
+      </matchfield>
+      <exec>$PatternID=16;</exec>
+    </pattern>
+    <pattern>
+      <id>17</id>
+      <name>Event - 800</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>800</value>
+      </matchfield>
+      <exec>$PatternID=17;</exec>
+    </pattern>
+    <pattern>
+      <id>18</id>
+      <name>Event - 903</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>903</value>
+      </matchfield>
+      <exec>$PatternID=18;</exec>
+    </pattern>
+    <pattern>
+      <id>19</id>
+      <name>Event - 903</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>903</value>
+      </matchfield>
+      <exec>$PatternID=19;</exec>
+    </pattern>
+    <pattern>
+      <id>20</id>
+      <name>Event - 904</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>904</value>
+      </matchfield>
+      <exec>$PatternID=20;</exec>
+    </pattern>
+    <pattern>
+      <id>21</id>
+      <name>Event - 908</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>908</value>
+      </matchfield>
+      <exec>$PatternID=21;</exec>
+    </pattern>
+    <pattern>
+      <id>22</id>
+      <name>Event - 140</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>140</value>
+      </matchfield>
+      <exec>$PatternID=22;</exec>
+    </pattern>
+    <pattern>
+      <id>23</id>
+      <name>Event - 1000</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>1000</value>
+      </matchfield>
+      <exec>$PatternID=23;</exec>
+    </pattern>
+    <pattern>
+      <id>24</id>
+      <name>Event - 1002</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>1002</value>
+      </matchfield>
+      <exec>$PatternID=24;</exec>
+    </pattern>
+    <pattern>
+      <id>25</id>
+      <name>Event - 1002</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>1002</value>
+      </matchfield>
+      <exec>$PatternID=25;</exec>
+    </pattern>
+    <pattern>
+      <id>26</id>
+      <name>Event - 1002</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>1002</value>
+      </matchfield>
+      <exec>$PatternID=26;</exec>
+    </pattern>
+    <pattern>
+      <id>27</id>
+      <name>Event - 1022</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>1022</value>
+      </matchfield>
+      <exec>$PatternID=27;</exec>
+    </pattern>
+    <pattern>
+      <id>28</id>
+      <name>Event - 1033</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>1033</value>
+      </matchfield>
+      <exec>$PatternID=28;</exec>
+    </pattern>
+    <pattern>
+      <id>29</id>
+      <name>Event - 1033</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>1033</value>
+      </matchfield>
+      <exec>$PatternID=29;</exec>
+    </pattern>
+    <pattern>
+      <id>30</id>
+      <name>Event - 1074</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>1074</value>
+      </matchfield>
+      <exec>$PatternID=30;</exec>
+    </pattern>
+    <pattern>
+      <id>31</id>
+      <name>Event - 1073</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>1073</value>
+      </matchfield>
+      <exec>$PatternID=31;</exec>
+    </pattern>
+    <pattern>
+      <id>32</id>
+      <name>Event - 1102</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>1102</value>
+      </matchfield>
+      <exec>$PatternID=32;</exec>
+    </pattern>
+    <pattern>
+      <id>33</id>
+      <name>Event - 4608</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>4608</value>
+      </matchfield>
+      <exec>$PatternID=33;</exec>
+    </pattern>
+    <pattern>
+      <id>34</id>
+      <name>Event - 4624</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>4624</value>
+      </matchfield>
+      <exec>$PatternID=34;</exec>
+    </pattern>
+    <pattern>
+      <id>35</id>
+      <name>Event - 4625</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>4625</value>
+      </matchfield>
+      <exec>$PatternID=35;</exec>
+    </pattern>
+    <pattern>
+      <id>36</id>
+      <name>Event - 4634</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>4634</value>
+      </matchfield>
+      <exec>$PatternID=36;</exec>
+    </pattern>
+    <pattern>
+      <id>37</id>
+      <name>Event - 4647</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>4647</value>
+      </matchfield>
+      <exec>$PatternID=37;</exec>
+    </pattern>
+    <pattern>
+      <id>38</id>
+      <name>Event - 4648</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>4648</value>
+      </matchfield>
+      <exec>$PatternID=38;</exec>
+    </pattern>
+    <pattern>
+      <id>39</id>
+      <name>Event - 5145</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>5145</value>
+      </matchfield>
+      <exec>$PatternID=39;</exec>
+    </pattern>
+    <pattern>
+      <id>40</id>
+      <name>Event - 4656</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>4656</value>
+      </matchfield>
+      <exec>$PatternID=40;</exec>
+    </pattern>
+    <pattern>
+      <id>41</id>
+      <name>Event - 4657</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>4657</value>
+      </matchfield>
+      <exec>$PatternID=41;</exec>
+    </pattern>
+    <pattern>
+      <id>42</id>
+      <name>Event - 4663</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>4663</value>
+      </matchfield>
+      <exec>$PatternID=42;</exec>
+    </pattern>
+    <pattern>
+      <id>43</id>
+      <name>Event - 4672</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>4672</value>
+      </matchfield>
+      <exec>$PatternID=43;</exec>
+    </pattern>
+    <pattern>
+      <id>44</id>
+      <name>Event - 4704</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>4704</value>
+      </matchfield>
+      <exec>$PatternID=44;</exec>
+    </pattern>
+    <pattern>
+      <id>45</id>
+      <name>Event - 4705</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>4705</value>
+      </matchfield>
+      <exec>$PatternID=45;</exec>
+    </pattern>
+    <pattern>
+      <id>46</id>
+      <name>Event - 4706</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>4706</value>
+      </matchfield>
+      <exec>$PatternID=46;</exec>
+    </pattern>
+    <pattern>
+      <id>47</id>
+      <name>Event - 4707</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>4707</value>
+      </matchfield>
+      <exec>$PatternID=47;</exec>
+    </pattern>
+    <pattern>
+      <id>48</id>
+      <name>Event - 4716</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>4716</value>
+      </matchfield>
+      <exec>$PatternID=48;</exec>
+    </pattern>
+    <pattern>
+      <id>49</id>
+      <name>Event - 4719</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>4719</value>
+      </matchfield>
+      <exec>$PatternID=49;</exec>
+    </pattern>
+    <pattern>
+      <id>50</id>
+      <name>Event - 4720</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>4720</value>
+      </matchfield>
+      <exec>$PatternID=50;</exec>
+    </pattern>
+    <pattern>
+      <id>51</id>
+      <name>Event - 4722</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>4722</value>
+      </matchfield>
+      <exec>$PatternID=51;</exec>
+    </pattern>
+    <pattern>
+      <id>52</id>
+      <name>Event - 4723</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>4723</value>
+      </matchfield>
+      <exec>$PatternID=52;</exec>
+    </pattern>
+    <pattern>
+      <id>53</id>
+      <name>Event - 4724</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>4724</value>
+      </matchfield>
+      <exec>$PatternID=53;</exec>
+    </pattern>
+    <pattern>
+      <id>54</id>
+      <name>Event - 4724</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>4724</value>
+      </matchfield>
+      <exec>$PatternID=54;</exec>
+    </pattern>
+    <pattern>
+      <id>55</id>
+      <name>Event - 4725</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>4725</value>
+      </matchfield>
+      <exec>$PatternID=55;</exec>
+    </pattern>
+    <pattern>
+      <id>56</id>
+      <name>Event - 4726</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>4726</value>
+      </matchfield>
+      <exec>$PatternID=56;</exec>
+    </pattern>
+    <pattern>
+      <id>57</id>
+      <name>Event - 4738</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>4738</value>
+      </matchfield>
+      <exec>$PatternID=57;</exec>
+    </pattern>
+    <pattern>
+      <id>58</id>
+      <name>Event - 4739</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>4739</value>
+      </matchfield>
+      <exec>$PatternID=58;</exec>
+    </pattern>
+    <pattern>
+      <id>59</id>
+      <name>Event - 4740</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>4740</value>
+      </matchfield>
+      <exec>$PatternID=59;</exec>
+    </pattern>
+    <pattern>
+      <id>60</id>
+      <name>Event - 4741</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>4741</value>
+      </matchfield>
+      <exec>$PatternID=60;</exec>
+    </pattern>
+    <pattern>
+      <id>61</id>
+      <name>Event - 4104</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>4104</value>
+      </matchfield>
+      <exec>$PatternID=61;</exec>
+    </pattern>
+    <pattern>
+      <id>62</id>
+      <name>Event - 13</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>13</value>
+      </matchfield>
+      <exec>$PatternID=62;</exec>
+    </pattern>
+    <pattern>
+      <id>63</id>
+      <name>Event - 8193</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>8193</value>
+      </matchfield>
+      <exec>$PatternID=63;</exec>
+    </pattern>
+    <pattern>
+      <id>64</id>
+      <name>Event - 4742</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>4742</value>
+      </matchfield>
+      <exec>$PatternID=64;</exec>
+    </pattern>
+    <pattern>
+      <id>65</id>
+      <name>Event - 4743</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>4743</value>
+      </matchfield>
+      <exec>$PatternID=65;</exec>
+    </pattern>
+    <pattern>
+      <id>66</id>
+      <name>Event - 4764</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>4764</value>
+      </matchfield>
+      <exec>$PatternID=66;</exec>
+    </pattern>
+    <pattern>
+      <id>67</id>
+      <name>Event - 4728</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>4728</value>
+      </matchfield>
+      <exec>$PatternID=67;</exec>
+    </pattern>
+    <pattern>
+      <id>68</id>
+      <name>Event - 4729</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>4729</value>
+      </matchfield>
+      <exec>$PatternID=68;</exec>
+    </pattern>
+    <pattern>
+      <id>69</id>
+      <name>Event - 4732</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>4732</value>
+      </matchfield>
+      <exec>$PatternID=69;</exec>
+    </pattern>
+    <pattern>
+      <id>70</id>
+      <name>Event - 4733</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>4733</value>
+      </matchfield>
+      <exec>$PatternID=70;</exec>
+    </pattern>
+    <pattern>
+      <id>71</id>
+      <name>Event - 4746</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>4746</value>
+      </matchfield>
+      <exec>$PatternID=71;</exec>
+    </pattern>
+    <pattern>
+      <id>72</id>
+      <name>Event - 4747</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>4747</value>
+      </matchfield>
+      <exec>$PatternID=72;</exec>
+    </pattern>
+    <pattern>
+      <id>73</id>
+      <name>Event - 4751</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>4751</value>
+      </matchfield>
+      <exec>$PatternID=73;</exec>
+    </pattern>
+    <pattern>
+      <id>74</id>
+      <name>Event - 4752</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>4752</value>
+      </matchfield>
+      <exec>$PatternID=74;</exec>
+    </pattern>
+    <pattern>
+      <id>75</id>
+      <name>Event - 4756</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>4756</value>
+      </matchfield>
+      <exec>$PatternID=75;</exec>
+    </pattern>
+    <pattern>
+      <id>76</id>
+      <name>Event - 4757</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>4757</value>
+      </matchfield>
+      <exec>$PatternID=76;</exec>
+    </pattern>
+    <pattern>
+      <id>77</id>
+      <name>Event - 4761</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>4761</value>
+      </matchfield>
+      <exec>$PatternID=77;</exec>
+    </pattern>
+    <pattern>
+      <id>78</id>
+      <name>Event - 4762</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>4762</value>
+      </matchfield>
+      <exec>$PatternID=78;</exec>
+    </pattern>
+    <pattern>
+      <id>79</id>
+      <name>Event - 4727</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>4727</value>
+      </matchfield>
+      <exec>$PatternID=79;</exec>
+    </pattern>
+    <pattern>
+      <id>80</id>
+      <name>Event - 4730</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>4730</value>
+      </matchfield>
+      <exec>$PatternID=80;</exec>
+    </pattern>
+    <pattern>
+      <id>81</id>
+      <name>Event - 4731</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>4731</value>
+      </matchfield>
+      <exec>$PatternID=81;</exec>
+    </pattern>
+    <pattern>
+      <id>82</id>
+      <name>Event - 4734</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>4734</value>
+      </matchfield>
+      <exec>$PatternID=82;</exec>
+    </pattern>
+    <pattern>
+      <id>83</id>
+      <name>Event - 4735</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>4735</value>
+      </matchfield>
+      <exec>$PatternID=83;</exec>
+    </pattern>
+    <pattern>
+      <id>84</id>
+      <name>Event - 4737</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>4737</value>
+      </matchfield>
+      <exec>$PatternID=84;</exec>
+    </pattern>
+    <pattern>
+      <id>85</id>
+      <name>Event - 4744</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>4744</value>
+      </matchfield>
+      <exec>$PatternID=85;</exec>
+    </pattern>
+    <pattern>
+      <id>86</id>
+      <name>Event - 4745</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>4745</value>
+      </matchfield>
+      <exec>$PatternID=86;</exec>
+    </pattern>
+    <pattern>
+      <id>87</id>
+      <name>Event - 4748</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>4748</value>
+      </matchfield>
+      <exec>$PatternID=87;</exec>
+    </pattern>
+    <pattern>
+      <id>88</id>
+      <name>Event - 4749</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>4749</value>
+      </matchfield>
+      <exec>$PatternID=88;</exec>
+    </pattern>
+    <pattern>
+      <id>89</id>
+      <name>Event - 4750</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>4750</value>
+      </matchfield>
+      <exec>$PatternID=89;</exec>
+    </pattern>
+    <pattern>
+      <id>90</id>
+      <name>Event - 4753</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>4753</value>
+      </matchfield>
+      <exec>$PatternID=90;</exec>
+    </pattern>
+    <pattern>
+      <id>91</id>
+      <name>Event - 4754</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>4754</value>
+      </matchfield>
+      <exec>$PatternID=91;</exec>
+    </pattern>
+    <pattern>
+      <id>92</id>
+      <name>Event - 4755</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>4755</value>
+      </matchfield>
+      <exec>$PatternID=92;</exec>
+    </pattern>
+    <pattern>
+      <id>93</id>
+      <name>Event - 4758</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>4758</value>
+      </matchfield>
+      <exec>$PatternID=93;</exec>
+    </pattern>
+    <pattern>
+      <id>94</id>
+      <name>Event - 4759</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>4759</value>
+      </matchfield>
+      <exec>$PatternID=94;</exec>
+    </pattern>
+    <pattern>
+      <id>95</id>
+      <name>Event - 4760</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>4760</value>
+      </matchfield>
+      <exec>$PatternID=95;</exec>
+    </pattern>
+    <pattern>
+      <id>96</id>
+      <name>Event - 4763</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>4763</value>
+      </matchfield>
+      <exec>$PatternID=96;</exec>
+    </pattern>
+    <pattern>
+      <id>97</id>
+      <name>Event - 4767</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>4767</value>
+      </matchfield>
+      <exec>$PatternID=97;</exec>
+    </pattern>
+    <pattern>
+      <id>98</id>
+      <name>Event - 4776</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>4776</value>
+      </matchfield>
+      <exec>$PatternID=98;</exec>
+    </pattern>
+    <pattern>
+      <id>99</id>
+      <name>Event - 4781</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>4781</value>
+      </matchfield>
+      <exec>$PatternID=99;</exec>
+    </pattern>
+    <pattern>
+      <id>100</id>
+      <name>Event - 5152</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>5152</value>
+      </matchfield>
+      <exec>$PatternID=100;</exec>
+    </pattern>
+    <pattern>
+      <id>101</id>
+      <name>Event - 5157</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>5157</value>
+      </matchfield>
+      <exec>$PatternID=101;</exec>
+    </pattern>
+    <pattern>
+      <id>102</id>
+      <name>Event - 6008</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>6008</value>
+      </matchfield>
+      <exec>$PatternID=102;</exec>
+    </pattern>
+    <pattern>
+      <id>103</id>
+      <name>Event - 7023</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>7023</value>
+      </matchfield>
+      <exec>$PatternID=103;</exec>
+    </pattern>
+    <pattern>
+      <id>104</id>
+      <name>Event - 7024</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>7024</value>
+      </matchfield>
+      <exec>$PatternID=104;</exec>
+    </pattern>
+    <pattern>
+      <id>105</id>
+      <name>Event - 7022</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>7022</value>
+      </matchfield>
+      <exec>$PatternID=105;</exec>
+    </pattern>
+    <pattern>
+      <id>106</id>
+      <name>Event - 4778</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>4778</value>
+      </matchfield>
+      <exec>$PatternID=106;</exec>
+    </pattern>
+    <pattern>
+      <id>107</id>
+      <name>Event - 4779</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>4779</value>
+      </matchfield>
+      <exec>$PatternID=107;</exec>
+    </pattern>
+    <pattern>
+      <id>108</id>
+      <name>Event - 7036</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>7036</value>
+      </matchfield>
+      <exec>$PatternID=108;</exec>
+    </pattern>
+    <pattern>
+      <id>109</id>
+      <name>Event - 7045</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>7045</value>
+      </matchfield>
+      <exec>$PatternID=109;</exec>
+    </pattern>
+    <pattern>
+      <id>110</id>
+      <name>Event - 4800</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>4800</value>
+      </matchfield>
+      <exec>$PatternID=110;</exec>
+    </pattern>
+    <pattern>
+      <id>111</id>
+      <name>Event - 4801</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>4801</value>
+      </matchfield>
+      <exec>$PatternID=111;</exec>
+    </pattern>
+    <pattern>
+      <id>112</id>
+      <name>Event - 8003</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>8003</value>
+      </matchfield>
+      <exec>$PatternID=112;</exec>
+    </pattern>
+    <pattern>
+      <id>113</id>
+      <name>Event - 8004</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>8004</value>
+      </matchfield>
+      <exec>$PatternID=113;</exec>
+    </pattern>
+    <pattern>
+      <id>114</id>
+      <name>Event - 8006</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>8006</value>
+      </matchfield>
+      <exec>$PatternID=114;</exec>
+    </pattern>
+    <pattern>
+      <id>115</id>
+      <name>Event - 8007</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>8007</value>
+      </matchfield>
+      <exec>$PatternID=115;</exec>
+    </pattern>
+    <pattern>
+      <id>116</id>
+      <name>Event - 865</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>865</value>
+      </matchfield>
+      <exec>$PatternID=116;</exec>
+    </pattern>
+    <pattern>
+      <id>117</id>
+      <name>Event - 866</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>866</value>
+      </matchfield>
+      <exec>$PatternID=117;</exec>
+    </pattern>
+    <pattern>
+      <id>118</id>
+      <name>Event - 867</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>867</value>
+      </matchfield>
+      <exec>$PatternID=118;</exec>
+    </pattern>
+    <pattern>
+      <id>119</id>
+      <name>Event - 868</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>868</value>
+      </matchfield>
+      <exec>$PatternID=119;</exec>
+    </pattern>
+    <pattern>
+      <id>120</id>
+      <name>Event - 882</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>882</value>
+      </matchfield>
+      <exec>$PatternID=120;</exec>
+    </pattern>
+    <pattern>
+      <id>121</id>
+      <name>Event - 10110</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>10110</value>
+      </matchfield>
+      <exec>$PatternID=121;</exec>
+    </pattern>
+    <pattern>
+      <id>122</id>
+      <name>Event - 10111</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>10111</value>
+      </matchfield>
+      <exec>$PatternID=122;</exec>
+    </pattern>
+    <pattern>
+      <id>123</id>
+      <name>Event - 1000</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>1000</value>
+      </matchfield>
+      <exec>$PatternID=123;</exec>
+    </pattern>
+    <pattern>
+      <id>124</id>
+      <name>Event - 1001</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>1001</value>
+      </matchfield>
+      <exec>$PatternID=124;</exec>
+    </pattern>
+    <pattern>
+      <id>125</id>
+      <name>Event - 4768</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>4768</value>
+      </matchfield>
+      <exec>$PatternID=125;</exec>
+    </pattern>
+    <pattern>
+      <id>126</id>
+      <name>Event - 4769</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>4769</value>
+      </matchfield>
+      <exec>$PatternID=126;</exec>
+    </pattern>
+    <pattern>
+      <id>127</id>
+      <name>Event - 4770</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>4770</value>
+      </matchfield>
+      <exec>$PatternID=127;</exec>
+    </pattern>
+    <pattern>
+      <id>128</id>
+      <name>Event - 4771</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>4771</value>
+      </matchfield>
+      <exec>$PatternID=128;</exec>
+    </pattern>
+    <pattern>
+      <id>129</id>
+      <name>Event - 4802</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>4802</value>
+      </matchfield>
+      <exec>$PatternID=129;</exec>
+    </pattern>
+    <pattern>
+      <id>130</id>
+      <name>Event - 4803</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>4803</value>
+      </matchfield>
+      <exec>$PatternID=130;</exec>
+    </pattern>
+    <pattern>
+      <id>131</id>
+      <name>Event - 7031</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>7031</value>
+      </matchfield>
+      <exec>$PatternID=131;</exec>
+    </pattern>
+    <pattern>
+      <id>132</id>
+      <name>Event - 7032</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>7032</value>
+      </matchfield>
+      <exec>$PatternID=132;</exec>
+    </pattern>
+    <pattern>
+      <id>133</id>
+      <name>Event - 7030</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>7030</value>
+      </matchfield>
+      <exec>$PatternID=133;</exec>
+    </pattern>
+    <pattern>
+      <id>134</id>
+      <name>Event - 7001</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>7001</value>
+      </matchfield>
+      <exec>$PatternID=134;</exec>
+    </pattern>
+    <pattern>
+      <id>135</id>
+      <name>Event - 10010</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>10010</value>
+      </matchfield>
+      <exec>$PatternID=135;</exec>
+    </pattern>
+    <pattern>
+      <id>136</id>
+      <name>Event - 10016</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>10016</value>
+      </matchfield>
+      <exec>$PatternID=136;</exec>
+    </pattern>
+    <pattern>
+      <id>137</id>
+      <name>Event - 528</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>528</value>
+      </matchfield>
+      <exec>$PatternID=137;</exec>
+    </pattern>
+    <pattern>
+      <id>138</id>
+      <name>Event - 538</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>538</value>
+      </matchfield>
+      <exec>$PatternID=138;</exec>
+    </pattern>
+    <pattern>
+      <id>139</id>
+      <name>Event - 540</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>540</value>
+      </matchfield>
+      <exec>$PatternID=139;</exec>
+    </pattern>
+    <pattern>
+      <id>140</id>
+      <name>Event - 551</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>551</value>
+      </matchfield>
+      <exec>$PatternID=140;</exec>
+    </pattern>
+    <pattern>
+      <id>141</id>
+      <name>Event - 552</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>552</value>
+      </matchfield>
+      <exec>$PatternID=141;</exec>
+    </pattern>
+    <pattern>
+      <id>142</id>
+      <name>Event - 576</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>576</value>
+      </matchfield>
+      <exec>$PatternID=142;</exec>
+    </pattern>
+    <pattern>
+      <id>143</id>
+      <name>Event - 615</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>615</value>
+      </matchfield>
+      <exec>$PatternID=143;</exec>
+    </pattern>
+    <pattern>
+      <id>144</id>
+      <name>Event - 624</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>624</value>
+      </matchfield>
+      <exec>$PatternID=144;</exec>
+    </pattern>
+    <pattern>
+      <id>145</id>
+      <name>Event - 626</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>626</value>
+      </matchfield>
+      <exec>$PatternID=145;</exec>
+    </pattern>
+    <pattern>
+      <id>146</id>
+      <name>Event - 628</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>628</value>
+      </matchfield>
+      <exec>$PatternID=146;</exec>
+    </pattern>
+    <pattern>
+      <id>147</id>
+      <name>Event - 632</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>632</value>
+      </matchfield>
+      <exec>$PatternID=147;</exec>
+    </pattern>
+    <pattern>
+      <id>148</id>
+      <name>Event - 636</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>636</value>
+      </matchfield>
+      <exec>$PatternID=148;</exec>
+    </pattern>
+    <pattern>
+      <id>149</id>
+      <name>Event - 642</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>642</value>
+      </matchfield>
+      <exec>$PatternID=149;</exec>
+    </pattern>
+    <pattern>
+      <id>150</id>
+      <name>Event - 680</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>680</value>
+      </matchfield>
+      <exec>$PatternID=150;</exec>
+    </pattern>
+    <pattern>
+      <id>151</id>
+      <name>Event - 7035</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>7035</value>
+      </matchfield>
+      <exec>$PatternID=151;</exec>
+    </pattern>
+    <pattern>
+      <id>152</id>
+      <name>Event - 4698</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>4698</value>
+      </matchfield>
+      <exec>$PatternID=152;</exec>
+    </pattern>
+    <pattern>
+      <id>153</id>
+      <name>Event - 4699</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>4699</value>
+      </matchfield>
+      <exec>$PatternID=153;</exec>
+    </pattern>
+    <pattern>
+      <id>154</id>
+      <name>Event - 4700</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>4700</value>
+      </matchfield>
+      <exec>$PatternID=154;</exec>
+    </pattern>
+    <pattern>
+      <id>155</id>
+      <name>Event - 4701</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>4701</value>
+      </matchfield>
+      <exec>$PatternID=155;</exec>
+    </pattern>
+    <pattern>
+      <id>156</id>
+      <name>Event - 4702</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>4702</value>
+      </matchfield>
+      <exec>$PatternID=156;</exec>
+    </pattern>
+    <pattern>
+      <id>157</id>
+      <name>Event - 5139</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>5139</value>
+      </matchfield>
+      <exec>$PatternID=157;</exec>
+    </pattern>
+    <pattern>
+      <id>158</id>
+      <name>Event - 5141</name>
+      <matchfield>
+        <name>EventID</name>
+        <type>exact</type>
+        <value>5141</value>
+      </matchfield>
+      <exec>$PatternID=158;</exec>
+    </pattern>
+  </group>
+</patterndb>
